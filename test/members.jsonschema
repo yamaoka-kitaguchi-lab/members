@@ -1,0 +1,52 @@
+{
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "role": {
+        "type": "object",
+        "properties": {
+          "ja": {"type": "string"},
+          "en": {"type": "string"}
+        },
+        "required": ["ja", "en"]
+      },
+      "members": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "object",
+              "properties": {
+                "ja": {"type": "string"},
+                "en": {"type": "string"}
+              },
+              "required": ["ja", "en"]
+            },
+            "grade": {
+              "type": "object",
+              "properties": {
+                "ja": {"type": "string"},
+                "en": {"type": "string"}
+              },
+              "required": ["ja", "en"]
+            },
+            "email": {"type": "string"},
+            "room": {
+              "type": "object",
+              "properties": {
+                "ja": {"type": "string"},
+                "en": {"type": "string"}
+              },
+              "required": ["ja", "en"]
+            },
+            "url": {"type": "string"}
+          },
+          "required": ["name", "grade", "email"]
+        }
+      }
+    },
+    "required": ["role", "members"]
+  }
+}
