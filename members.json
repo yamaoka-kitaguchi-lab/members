@@ -3,7 +3,10 @@
     "role": {"ja": "教職員", "en": "Faculty and Staff"},
     "members": [
       {
-        "name": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"}
+        "name": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+        "grade": {"ja": "准教授", "en": "Associate Professor"},
+        "email": "yamaoka@ict.e.titech.ac.jp",
+        "room": {"ja": "大岡山キャンパス南3号館308室", "en": "Ookayama Campus S3 Room308"}
       },
       {
         "name": {"ja": "北口 義善", "en": "Yoshiaki KITAGUCHI"},
