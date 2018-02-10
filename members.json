@@ -1,113 +1,113 @@
 [
-	{
-		"role": {"ja": "教職員", "en": "Faculty and Staff"},
-		"members": [
-			{
-				"name": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
-				"grade": {"ja": "准教授", "en": "Associate Professor"},
-				"email": "yamaoka@ict.e.titech.ac.jp",
-				"room": {"ja": "大岡山キャンパス南3号館308室", "en": "Ookayama Campus S3 Room308"}
-			},
-			{
-				"name": {"ja": "北口 義善", "en": "Yoshiaki KITAGUCHI"},
-				"grade": {"ja": "准教授", "en": "Associate Professor"},
-				"email": "kitaguchi@gsic.titech.ac.jp",
-				"room": {"ja": "大岡山キャンパス南3号館517室", "en": "Ookayama Campus S3 Room517"}
-			},
-			{
-				"name": {"ja": "松崎 薫", "en": "Kaoru MATSUZAKI"},
-				"grade": {"ja": "補佐員", "en": "Staff"},
-				"email": "yamaoka@ict.e.titech.ac.jp",
-				"room": {"ja": "大岡山キャンパス南3号館308室", "en": "Ookayama Campus S3 Room308"}
-			},
-			{
-				"name": {"ja": "酒井 善則", "en": "Yoshinori SAKAI"},
-				"grade": {"ja": "名誉教授", "en": "Emeritus Professor"},
-				"email": "ys@net.ict.e.titech.ac.jp"
-			}
-		]
-	},
-	{
-		"role": {"ja": "大学院 (博士課程)", "en": "Ph.D. Candidate"},
-		"members": [
-			{
-				"name": {"ja": "田辺 和輝", "en": "Kazuki TANABE"},
-				"grade": {"ja": "後期博士課程", "en": "Ph.D. Candidate"},
-				"email": "tanabe@net.ict.e.titech.ac.jp",
-				"room": {"ja": "大岡山キャンパス南3号館301室", "en": "Ookayama Campus S3 Room301"},
-        "url": "https://www.net.ict.e.titech.ac.jp/member/tanabe/index.html"
-			},
-			{
-				"name": {"ja": "クリッティン インタラウィジット", "en": "Intharawijitr Krittin"},
-				"grade": {"ja": "後期博士課程", "en": "Ph.D. Candidate"},
-				"email": "intharawijitr@net.ict.e.titech.ac.jp",
-				"room": {"ja": "大岡山キャンパス南3号館301室", "en": "Ookayama Campus S3 Room301"},
-        "url": "https://krittinin.github.io/"
-			}
-    ]
-	},
   {
-		"role": {"ja": "大学院 (修士課程)", "en": "M.S. Candidate"},
-		"members": [
-			{
-				"name": {"ja": "石井 優太", "en": "Yuta ISHII"},
-				"grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
-				"email": "ishii@net.ict.e.titech.ac.jp",
-				"room": {"ja": "大岡山キャンパス南3号館301室", "en": "Ookayama Campus S3 Room301"}
-			},
-			{
-				"name": {"ja": "今井 将兵", "en": "Shohei IMAI"},
-				"grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
-				"email": "imai@net.ict.e.titech.ac.jp",
-				"room": {"ja": "大岡山キャンパス南3号館301室", "en": "Ookayama Campus S3 Room301"}
-			},
-			{
-				"name": {"ja": "岡本 卓也", "en": "Takuya OKAMOTO"},
-				"grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
-				"email": "okamoto@net.ict.e.titech.ac.jp",
-				"room": {"ja": "大岡山キャンパス南3号館301室", "en": "Ookayama Campus S3 Room301"}
-			},
-			{
-				"name": {"ja": "小杉山 拓弥", "en": "Takuya KOSUGIYAMA"},
-				"grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
-				"email": "kosugiyama@net.ict.e.titech.ac.jp",
-				"room": {"ja": "大岡山キャンパス南3号館301室", "en": "Ookayama Campus S3 Room301"}
-			},
-			{
-				"name": {"ja": "赤岡 武", "en": "Takeshi AKAOKA"},
-				"grade": {"ja": "修士課程1年", "en": "M.S. Candidate"},
-				"email": "akaoka@net.ict.e.titech.ac.jp",
-				"room": {"ja": "大岡山キャンパス南3号館301室", "en": "Ookayama Campus S3 Room301"}
-			},
-			{
-				"name": {"ja": "松浦 匠", "en": "Takumi MATSUURA"},
-				"grade": {"ja": "修士課程1年", "en": "M.S. Candidate"},
-				"email": "matsuura@net.ict.e.titech.ac.jp",
-				"room": {"ja": "大岡山キャンパス南3号館301室", "en": "Ookayama Campus S3 Room301"}
-			},
-			{
-				"name": {"ja": "村上 亮太", "en": "Ryota MURAKAMI"},
-				"grade": {"ja": "修士課程1年", "en": "M.S. Candidate"},
-				"email": "murakami@net.ict.e.titech.ac.jp",
-				"room": {"ja": "大岡山キャンパス南3号館301室", "en": "Ookayama Campus S3 Room301"}
-			}
+    "role": {"ja": "教職員", "en": "Faculty and Staff"},
+    "members": [
+      {
+        "name": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+        "grade": {"ja": "准教授", "en": "Associate Professor"},
+        "email": "yamaoka@ict.e.titech.ac.jp",
+        "room": {"ja": "大岡山キャンパス南3号館308室", "en": "Ookayama Campus S3 Room308"}
+      },
+      {
+        "name": {"ja": "北口 義善", "en": "Yoshiaki KITAGUCHI"},
+        "grade": {"ja": "准教授", "en": "Associate Professor"},
+        "email": "kitaguchi@gsic.titech.ac.jp",
+        "room": {"ja": "大岡山キャンパス南3号館517室", "en": "Ookayama Campus S3 Room517"}
+      },
+      {
+        "name": {"ja": "松崎 薫", "en": "Kaoru MATSUZAKI"},
+        "grade": {"ja": "補佐員", "en": "Staff"},
+        "email": "yamaoka@ict.e.titech.ac.jp",
+        "room": {"ja": "大岡山キャンパス南3号館308室", "en": "Ookayama Campus S3 Room308"}
+      },
+      {
+        "name": {"ja": "酒井 善則", "en": "Yoshinori SAKAI"},
+        "grade": {"ja": "名誉教授", "en": "Emeritus Professor"},
+        "email": "ys@net.ict.e.titech.ac.jp"
+      }
     ]
   },
   {
-		"role": {"ja": "学部生", "en": "Undergraduate"},
-		"members": [
-			{
-				"name": {"ja": "宮 太地", "en": "Taichi MIYA"},
-				"grade": {"ja": "学部4年", "en": "Undergraduate"},
-				"email": "miya@net.ict.e.titech.ac.jp",
-				"room": {"ja": "大岡山キャンパス南3号館301室", "en": "Ookayama Campus S3 Room301"}
-			},
-			{
-				"name": {"ja": "渡邊 泰平", "en": "Taihei WATANABE"},
-				"grade": {"ja": "学部4年", "en": "Undergraduate"},
-				"email": "watanabe@net.ict.e.titech.ac.jp",
-				"room": {"ja": "大岡山キャンパス南3号館301室", "en": "Ookayama Campus S3 Room301"}
-			}
+    "role": {"ja": "大学院 (博士課程)", "en": "Ph.D. Candidate"},
+    "members": [
+      {
+        "name": {"ja": "田辺 和輝", "en": "Kazuki TANABE"},
+        "grade": {"ja": "後期博士課程", "en": "Ph.D. Candidate"},
+        "email": "tanabe@net.ict.e.titech.ac.jp",
+        "room": {"ja": "大岡山キャンパス南3号館301室", "en": "Ookayama Campus S3 Room301"},
+        "url": "https://www.net.ict.e.titech.ac.jp/member/tanabe/index.html"
+      },
+      {
+        "name": {"ja": "クリッティン インタラウィジット", "en": "Intharawijitr Krittin"},
+        "grade": {"ja": "後期博士課程", "en": "Ph.D. Candidate"},
+        "email": "intharawijitr@net.ict.e.titech.ac.jp",
+        "room": {"ja": "大岡山キャンパス南3号館301室", "en": "Ookayama Campus S3 Room301"},
+        "url": "https://krittinin.github.io/"
+      }
+    ]
+  },
+  {
+    "role": {"ja": "大学院 (修士課程)", "en": "M.S. Candidate"},
+    "members": [
+      {
+        "name": {"ja": "石井 優太", "en": "Yuta ISHII"},
+        "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
+        "email": "ishii@net.ict.e.titech.ac.jp",
+        "room": {"ja": "大岡山キャンパス南3号館301室", "en": "Ookayama Campus S3 Room301"}
+      },
+      {
+        "name": {"ja": "今井 将兵", "en": "Shohei IMAI"},
+        "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
+        "email": "imai@net.ict.e.titech.ac.jp",
+        "room": {"ja": "大岡山キャンパス南3号館301室", "en": "Ookayama Campus S3 Room301"}
+      },
+      {
+        "name": {"ja": "岡本 卓也", "en": "Takuya OKAMOTO"},
+        "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
+        "email": "okamoto@net.ict.e.titech.ac.jp",
+        "room": {"ja": "大岡山キャンパス南3号館301室", "en": "Ookayama Campus S3 Room301"}
+      },
+      {
+        "name": {"ja": "小杉山 拓弥", "en": "Takuya KOSUGIYAMA"},
+        "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
+        "email": "kosugiyama@net.ict.e.titech.ac.jp",
+        "room": {"ja": "大岡山キャンパス南3号館301室", "en": "Ookayama Campus S3 Room301"}
+      },
+      {
+        "name": {"ja": "赤岡 武", "en": "Takeshi AKAOKA"},
+        "grade": {"ja": "修士課程1年", "en": "M.S. Candidate"},
+        "email": "akaoka@net.ict.e.titech.ac.jp",
+        "room": {"ja": "大岡山キャンパス南3号館301室", "en": "Ookayama Campus S3 Room301"}
+      },
+      {
+        "name": {"ja": "松浦 匠", "en": "Takumi MATSUURA"},
+        "grade": {"ja": "修士課程1年", "en": "M.S. Candidate"},
+        "email": "matsuura@net.ict.e.titech.ac.jp",
+        "room": {"ja": "大岡山キャンパス南3号館301室", "en": "Ookayama Campus S3 Room301"}
+      },
+      {
+        "name": {"ja": "村上 亮太", "en": "Ryota MURAKAMI"},
+        "grade": {"ja": "修士課程1年", "en": "M.S. Candidate"},
+        "email": "murakami@net.ict.e.titech.ac.jp",
+        "room": {"ja": "大岡山キャンパス南3号館301室", "en": "Ookayama Campus S3 Room301"}
+      }
+    ]
+  },
+  {
+    "role": {"ja": "学部生", "en": "Undergraduate"},
+    "members": [
+      {
+        "name": {"ja": "宮 太地", "en": "Taichi MIYA"},
+        "grade": {"ja": "学部4年", "en": "Undergraduate"},
+        "email": "miya@net.ict.e.titech.ac.jp",
+        "room": {"ja": "大岡山キャンパス南3号館301室", "en": "Ookayama Campus S3 Room301"}
+      },
+      {
+        "name": {"ja": "渡邊 泰平", "en": "Taihei WATANABE"},
+        "grade": {"ja": "学部4年", "en": "Undergraduate"},
+        "email": "watanabe@net.ict.e.titech.ac.jp",
+        "room": {"ja": "大岡山キャンパス南3号館301室", "en": "Ookayama Campus S3 Room301"}
+      }
     ]
   }
 ]
