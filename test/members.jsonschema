@@ -32,18 +32,11 @@
               },
               "required": ["ja", "en"]
             },
-            "email": {"type": "string"},
-            "room": {
-              "type": "object",
-              "properties": {
-                "ja": {"type": "string"},
-                "en": {"type": "string"}
-              },
-              "required": ["ja", "en"]
-            },
+            "account": {"type": "string"},
+            "room": {"type": "string"},
             "url": {"type": "string"}
           },
-          "required": ["name", "grade", "email"]
+          "required": ["name", "grade", "account"]
         }
       }
     },
