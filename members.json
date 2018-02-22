@@ -1,6 +1,13 @@
 [
   {
     "role": {"ja": "教職員", "en": "Faculty and Staff"},
+    "label": {
+      "name": {"ja": "名前", "en": "Name"},
+      "grade": {"ja": "職位", "en": "Title"},
+      "account": {"ja": "アカウント", "en": "Account"},
+      "room": {"ja": "居室", "en": "Room"},
+      "url": {"ja": "URL", "en": "URL"}
+    },
     "members": [
       {
         "name": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
@@ -29,6 +36,13 @@
   },
   {
     "role": {"ja": "学生", "en": "Students"},
+    "label": {
+      "name": {"ja": "名前", "en": "Name"},
+      "grade": {"ja": "学年", "en": "Grade"},
+      "account": {"ja": "アカウント", "en": "Account"},
+      "room": {"ja": "居室", "en": "Room"},
+      "url": {"ja": "URL", "en": "URL"}
+    },
     "members": [
       {
         "name": {"ja": "田辺 和輝", "en": "Kazuki TANABE"},
