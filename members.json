@@ -13,13 +13,15 @@
         "name": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
         "grade": {"ja": "准教授", "en": "Associate Professor"},
         "account": "yamaoka",
-        "room": "S3-308"
+        "room": "S3-308",
+        "url": "https://search.star.titech.ac.jp/titech-ss/pursuer.act?event=outside&key_t2r2Rid=CTT100380745&lang=jp"
       },
       {
         "name": {"ja": "北口 善明", "en": "Yoshiaki KITAGUCHI"},
         "grade": {"ja": "准教授", "en": "Associate Professor"},
         "account": "kitaguchi",
-        "room": "S3-517"
+        "room": "S3-517",
+        "url": "http://search.star.titech.ac.jp/titech-ss/pursuer.act?event=outside&key_rid=5000015938&lang=jp"
       },
       {
         "name": {"ja": "松崎 薫", "en": "Kaoru MATSUZAKI"},
@@ -30,7 +32,8 @@
       {
         "name": {"ja": "酒井 善則", "en": "Yoshinori SAKAI"},
         "grade": {"ja": "名誉教授", "en": "Emeritus Professor"},
-        "account": "ys"
+        "account": "ys",
+        "url": "http://t2r2.star.titech.ac.jp/cgi-bin/researcherinfo.cgi?q_researcher_content_number=afe38dc6f6529557bcf45f299e6d5b51"
       }
     ]
   },
