@@ -38,7 +38,7 @@
     ]
   },
   {
-    "role": {"ja": "学生", "en": "Students"},
+    "role": {"ja": "学生", "en": "Student"},
     "label": {
       "name": {"ja": "名前", "en": "Name"},
       "grade": {"ja": "学年", "en": "Grade"},
@@ -83,6 +83,21 @@
         "name": {"ja": "宮 太地", "en": "Taichi MIYA"},
         "grade": {"ja": "修士1年", "en": "M1"},
         "account": "miya",
+        "room": "S3-301"
+      }
+    ]
+  },
+  {
+    "role": {"ja": "交換留学生", "en": "Exchange Student"},
+    "label": {
+      "name": {"ja": "名前", "en": "Name"},
+      "account": {"ja": "アカウント", "en": "Account"},
+      "room": {"ja": "居室", "en": "Room"}
+    },
+    "members": [
+      {
+        "name": {"ja": "ジェローム ホルベイン", "en": "Jerome Holbein"},
+        "account": "holbein",
         "room": "S3-301"
       }
     ]
