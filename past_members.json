@@ -3,33 +3,33 @@
     "role": {"ja": "学生", "en": "Student"},
     "label": {
       "name": {"ja": "名前", "en": "Name"},
-      "year": {"ja": "修了(卒業)年月", "en": "Graduation Year"},
+      "date": {"ja": "修了(卒業)年月", "en": "Graduation Year"},
       "degree": {"ja": "学位", "en": "Degree"}
     },
     "members": [
       {
         "name": {"ja": "石井 優太", "en": "Yuta ISHII"},
-        "year": {"ja": "2018年3月", "en": "Mar, 2018"},
+        "date": {"ja": "2018年3月", "en": "Mar, 2018"},
         "degree": {"ja": "", "en": ""}
       },
       {
         "name": {"ja": "今井 将兵", "en": "Shohei IMAI"},
-        "year": {"ja": "2018年3月", "en": "Mar, 2018"},
+        "date": {"ja": "2018年3月", "en": "Mar, 2018"},
         "degree": {"ja": "修士(工学)", "en": "Master of Engineering"}
       },
       {
         "name": {"ja": "岡本 卓也", "en": "Takuya OKAMOTO"},
-        "year": {"ja": "2018年3月", "en": "Mar, 2018"},
+        "date": {"ja": "2018年3月", "en": "Mar, 2018"},
         "degree": {"ja": "修士(工学)", "en": "Master of Engineering"}
       },
       {
         "name": {"ja": "小杉山 拓弥", "en": "Takuya KOSUGIYAMA"},
-        "year": {"ja": "2018年3月", "en": "Mar, 2018"},
+        "date": {"ja": "2018年3月", "en": "Mar, 2018"},
         "degree": {"ja": "修士(工学)", "en": "Master of Engineering"}
       },
       {
         "name": {"ja": "渡邊 泰平", "en": "Taihei WATANABE"},
-        "year": {"ja": "2018年3月", "en": "Mar, 2018"},
+        "date": {"ja": "2018年3月", "en": "Mar, 2018"},
         "degree": {"ja": "学士(工学)", "en": "Bachelor of Engineering"}
       }
     ]
@@ -38,7 +38,7 @@
     "role": {"ja": "交換留学生", "en": "Exchange Student"},
     "label": {
       "name": {"ja": "名前", "en": "Name"},
-      "period": {"ja": "期間", "en": "Period"}
+      "date": {"ja": "期間", "en": "Period"}
     },
     "members": []
   }

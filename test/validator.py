@@ -11,7 +11,9 @@ def validate_members_file():
         __validate(data, './members.jsonschema')
 
 def validate_past_members_file():
-    pass
+    with open('../past_members.json', 'r') as fd:
+        data = json.load(fd)
+        __validate(data, './past_members.jsonschema')
 
 if __name__ == '__main__':
     validate_members_file()
