@@ -55,7 +55,7 @@
             "required": ["ja", "en"]
           }
         },
-        "required": ["name", "grade", "account", "room", "url"]
+        "required": ["name", "account"]
       },
       "members": {
         "type": "array",
@@ -82,7 +82,7 @@
             "room": {"type": "string"},
             "url": {"type": "string"}
           },
-          "required": ["name", "grade", "account"]
+          "required": ["name", "account"]
         }
       }
     },
