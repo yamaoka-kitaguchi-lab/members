@@ -31,7 +31,7 @@
       },
       {
         "name": {"ja": "酒井 善則", "en": "Yoshinori SAKAI"},
-        "grade": {"ja": "名誉教授", "en": "Emeritus Professor"},
+        "grade": {"ja": "名誉教授", "en": "Professor Emeritus"},
         "account": "ys",
         "url": "http://t2r2.star.titech.ac.jp/cgi-bin/researcherinfo.cgi?q_researcher_content_number=afe38dc6f6529557bcf45f299e6d5b51"
       }
@@ -91,12 +91,14 @@
     "role": {"ja": "交換留学生", "en": "Exchange Student"},
     "label": {
       "name": {"ja": "名前", "en": "Name"},
+      "grade": {"ja": "学年", "en": "Grade"},
       "account": {"ja": "アカウント", "en": "Account"},
       "room": {"ja": "居室", "en": "Room"}
     },
     "members": [
       {
         "name": {"ja": "ジェローム ホルベイン", "en": "Jerome Holbein"},
+        "grade": {"ja": "研究生", "en": "R"},
         "account": "holbein",
         "room": "S3-301"
       }
