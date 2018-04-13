@@ -30,7 +30,7 @@
             },
             "required": ["ja", "en"]
           },
-          "grade": {
+          "program": {
             "type": "object",
             "properties": {
               "ja": {"type": "string"},
@@ -39,7 +39,7 @@
             "required": ["ja", "en"]
           }
         },
-        "required": ["name", "period", "grade"]
+        "required": ["name", "period", "program"]
       },
       "members": {
         "type": "array",
@@ -62,7 +62,7 @@
               },
               "required": ["ja", "en"]
             },
-            "grade": {
+            "program": {
               "type": "object",
               "properties": {
                 "ja": {"type": "string"},
@@ -71,7 +71,7 @@
               "required": ["ja", "en"]
             }
           },
-          "required": ["name", "period", "grade"]
+          "required": ["name", "period", "program"]
         }
       }
     },

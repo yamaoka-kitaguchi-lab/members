@@ -3,7 +3,7 @@
     "role": {"ja": "卒業生", "en": "Alumni"},
     "label": {
       "name": {"ja": "名前", "en": "Name"},
-      "date": {"ja": "修了(卒業)年月", "en": "Graduation Year"},
+      "date": {"ja": "年度", "en": "Graduation Year"},
       "degree": {"ja": "学位", "en": "Degree"}
     },
     "members": [
