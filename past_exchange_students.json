@@ -4,7 +4,7 @@
     "label": {
       "name": {"ja": "名前", "en": "Name"},
       "period": {"ja": "期間", "en": "Period"},
-      "affiliation": {"ja": "所属", "en": "Affiliation"}
+      "affiliation": {"ja": "所属", "en": "Affiliation"},
       "program": {"ja": "プログラム", "en": "Program"}
     },
     "members": []
