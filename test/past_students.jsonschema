@@ -39,7 +39,7 @@
             "required": ["ja", "en"]
           }
         },
-        "required": ["name", "date"]
+        "required": ["name", "date", "degree"]
       },
       "members": {
         "type": "array",
@@ -71,7 +71,7 @@
               "required": ["ja", "en"]
             }
           },
-          "required": ["name", "date"]
+          "required": ["name", "date", "degree"]
         }
       }
     },

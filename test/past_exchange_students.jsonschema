@@ -1,0 +1,80 @@
+{
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "role": {
+        "type": "object",
+        "properties": {
+          "ja": {"type": "string"},
+          "en": {"type": "string"}
+        },
+        "required": ["ja", "en"]
+      },
+      "label": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "object",
+            "properties": {
+              "ja": {"type": "string"},
+              "en": {"type": "string"}
+            },
+            "required": ["ja", "en"]
+          },
+          "period": {
+            "type": "object",
+            "properties": {
+              "ja": {"type": "string"},
+              "en": {"type": "string"}
+            },
+            "required": ["ja", "en"]
+          },
+          "grade": {
+            "type": "object",
+            "properties": {
+              "ja": {"type": "string"},
+              "en": {"type": "string"}
+            },
+            "required": ["ja", "en"]
+          }
+        },
+        "required": ["name", "period", "grade"]
+      },
+      "members": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "object",
+              "properties": {
+                "ja": {"type": "string"},
+                "en": {"type": "string"}
+              },
+              "required": ["ja", "en"]
+            },
+            "period": {
+              "type": "object",
+              "properties": {
+                "ja": {"type": "string"},
+                "en": {"type": "string"}
+              },
+              "required": ["ja", "en"]
+            },
+            "grade": {
+              "type": "object",
+              "properties": {
+                "ja": {"type": "string"},
+                "en": {"type": "string"}
+              },
+              "required": ["ja", "en"]
+            }
+          },
+          "required": ["name", "period", "grade"]
+        }
+      }
+    },
+    "required": ["role", "members"]
+  }
+}

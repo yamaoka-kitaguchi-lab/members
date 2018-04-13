@@ -10,11 +10,17 @@ def validate_members_file():
         data = json.load(fd)
         __validate(data, './members.jsonschema')
 
-def validate_past_members_file():
-    with open('../past_members.json', 'r') as fd:
+def validate_past_students_file():
+    with open('../past_students.json', 'r') as fd:
         data = json.load(fd)
-        __validate(data, './past_members.jsonschema')
+        __validate(data, './past_students.jsonschema')
+
+def validate_past_exchange_students_file():
+    with open('../past_exchange_students.json', 'r') as fd:
+        data = json.load(fd)
+        __validate(data, './past_exchange_students.jsonschema')
 
 if __name__ == '__main__':
     validate_members_file()
-    validate_past_members_file()
+    validate_past_students_file()
+    validate_past_exchange_students_file()

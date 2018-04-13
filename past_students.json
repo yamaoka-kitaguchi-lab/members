@@ -1,6 +1,6 @@
 [
   {
-    "role": {"ja": "学生", "en": "Student"},
+    "role": {"ja": "卒業生", "en": "Alumni"},
     "label": {
       "name": {"ja": "名前", "en": "Name"},
       "date": {"ja": "修了(卒業)年月", "en": "Graduation Year"},
@@ -33,13 +33,5 @@
         "degree": {"ja": "学士(工学)", "en": "Bachelor of Engineering"}
       }
     ]
-  },
-  {
-    "role": {"ja": "交換留学生", "en": "Exchange Student"},
-    "label": {
-      "name": {"ja": "名前", "en": "Name"},
-      "date": {"ja": "期間", "en": "Period"}
-    },
-    "members": []
   }
 ]

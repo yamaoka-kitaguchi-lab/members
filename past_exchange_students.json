@@ -1,0 +1,11 @@
+[
+  {
+    "role": {"ja": "交換留学生", "en": "Exchange Student"},
+    "label": {
+      "name": {"ja": "名前", "en": "Name"},
+      "period": {"ja": "期間", "en": "Period"},
+      "grade": {"ja": "学年", "en": "Grade"}
+    },
+    "members": []
+  }
+]
