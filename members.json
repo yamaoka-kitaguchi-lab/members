@@ -80,9 +80,39 @@
         "room": "S3-301"
       },
       {
+        "name": {"ja": "坂東 昭太郎", "en": "Shotaro BANDO"},
+        "grade": {"ja": "修士1年", "en": "M1"},
+        "account": "bando",
+        "room": "S3-301"
+      },
+      {
+        "name": {"ja": "平井 和樹", "en": "Kazuki HIRAI"},
+        "grade": {"ja": "修士1年", "en": "M1"},
+        "account": "hirai",
+        "room": "S3-301"
+      },
+      {
         "name": {"ja": "宮 太地", "en": "Taichi MIYA"},
         "grade": {"ja": "修士1年", "en": "M1"},
         "account": "miya",
+        "room": "S3-301"
+      },
+      {
+        "name": {"ja": "澤田 一樹", "en": "Kazuki SAWADA"},
+        "grade": {"ja": "学部4年", "en": "B4"},
+        "account": "sawada",
+        "room": "S3-301"
+      },
+      {
+        "name": {"ja": "仲宗根 一成", "en": "Kazunari NAKASONE"},
+        "grade": {"ja": "学部4年", "en": "B4"},
+        "account": "nakasone",
+        "room": "S3-301"
+      },
+      {
+        "name": {"ja": "平野 絋大", "en": "Kohdai HIRANO"},
+        "grade": {"ja": "学部4年", "en": "B4"},
+        "account": "hirano",
         "room": "S3-301"
       }
     ]
