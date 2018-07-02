@@ -7,6 +7,13 @@
       "affiliation": {"ja": "所属", "en": "Affiliation"},
       "program": {"ja": "プログラム", "en": "Program"}
     },
-    "members": []
+    "members": [
+      {
+        "name": {"ja": "ジェローム ホルベイン", "en": "Jerome Holbein"},
+        "period": {"ja": "2018年3月から2018年8月", "en": ""},
+        "affiliation": {"ja": "チューリッヒ工科大学", "en": "Eidgenössische Technische Hochschule Zürich"},
+        "program": {"ja": "YSEP", "en": "YSEP"}
+      }
+    ]
   }
 ]
