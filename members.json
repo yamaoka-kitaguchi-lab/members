@@ -126,12 +126,6 @@
       "room": {"ja": "居室", "en": "Room"}
     },
     "members": [
-      {
-        "name": {"ja": "ジェローム ホルベイン", "en": "Jérôme HOLBEIN"},
-        "grade": {"ja": "研究生", "en": "R"},
-        "account": "holbein",
-        "room": "S3-301"
-      }
     ]
   }
 ]
