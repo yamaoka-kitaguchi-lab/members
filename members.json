@@ -126,6 +126,12 @@
       "room": {"ja": "居室", "en": "Room"}
     },
     "members": [
+      {
+        "name": {"ja": "林 家諄", "en": "Jia-Jhun LIN"},
+        "grade": {"ja": "研究生", "en": "R"},
+        "account": "lin",
+        "room": "S3-301"
+      }
     ]
   }
 ]
