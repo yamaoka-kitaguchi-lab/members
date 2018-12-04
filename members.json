@@ -114,6 +114,24 @@
         "grade": {"ja": "学部4年", "en": "B4"},
         "account": "hirano",
         "room": "S3-301"
+      },
+      {
+        "name": {"ja": "大橋 滉也", "en": "Koya OHASHI"},
+        "grade": {"ja": "学部3年", "en": "B3"},
+        "account": "k-ohashi",
+        "room": "S3-313"
+      },
+      {
+        "name": {"ja": "湯田 孟", "en": "Hajime YUDA"},
+        "grade": {"ja": "学部3年", "en": "B3"},
+        "account": "yuda",
+        "room": "S3-313"
+      },
+      {
+        "name": {"ja": "ダワージャルガル オチラル", "en": "Davaajargal UCHRAL"},
+        "grade": {"ja": "学部3年", "en": "B3"},
+        "account": "uchral",
+        "room": "S3-313"
       }
     ]
   },
