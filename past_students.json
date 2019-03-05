@@ -31,6 +31,26 @@
         "name": {"ja": "渡邊 泰平", "en": "Taihei WATANABE"},
         "date": {"ja": "2018年3月", "en": "Mar, 2018"},
         "degree": {"ja": "学士(工学)", "en": "Bachelor of Engineering"}
+      },
+      {
+        "name": {"ja": "野田 翔", "en": "Sho NODA"},
+        "date": {"ja": "2017年3月", "en": "Mar, 2017"},
+        "degree": {"ja": "修士(工学)", "en": "Master of Engineering"}
+      },
+      {
+        "name": {"ja": "加田 匠", "en": "Takumi KADA"},
+        "date": {"ja": "2017年3月", "en": "Mar, 2017"},
+        "degree": {"ja": "学士(工学)", "en": "Bachelor of Engineering"}
+      },
+      {
+        "name": {"ja": "立花 誠人", "en": "Masato TACHIBANA"},
+        "date": {"ja": "2017年3月", "en": "Mar, 2017"},
+        "degree": {"ja": "学士(工学)", "en": "Bachelor of Engineering"}
+      },
+      {
+        "name": {"ja": "樋田 有記", "en": "Yuki HIDA"},
+        "date": {"ja": "2017年3月", "en": "Mar, 2017"},
+        "degree": {"ja": "学士(工学)", "en": "Bachelor of Engineering"}
       }
     ]
   }
