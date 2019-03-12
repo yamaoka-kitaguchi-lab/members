@@ -1,6 +1,9 @@
 language: python
 python:
   - 3.6
+branchs:
+  only:
+    - master
 install:
   - pip install jsonschema
 before_script:
