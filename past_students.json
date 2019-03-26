@@ -8,6 +8,36 @@
     },
     "members": [
       {
+        "name": {"ja": "田辺 和輝", "en": "Kazuki TANABE"},
+        "date": {"ja": "2019年3月", "en": "Mar, 2019"},
+        "degree": {"ja": "博士(工学)", "en": "Ph.D."}
+      },
+      {
+        "name": {"ja": "赤岡 武", "en": "Takeshi AKAOKA"},
+        "date": {"ja": "2019年3月", "en": "Mar, 2019"},
+        "degree": {"ja": "修士(工学)", "en": "Master of Engineering"}
+      },
+      {
+        "name": {"ja": "松浦 匠", "en": "Takumi MATSUURA"},
+        "date": {"ja": "2019年3月", "en": "Mar, 2019"},
+        "degree": {"ja": "修士(工学)", "en": "Master of Engineering"}
+      },
+      {
+        "name": {"ja": "村上 亮太", "en": "Ryota MURAKAMI"},
+        "date": {"ja": "2019年3月", "en": "Mar, 2019"},
+        "degree": {"ja": "修士(工学)", "en": "Master of Engineering"}
+      },
+      {
+        "name": {"ja": "澤田 一樹", "en": "Kazuki SAWADA"},
+        "date": {"ja": "2019年3月", "en": "Mar, 2019"},
+        "degree": {"ja": "学士(工学)", "en": "Bachelor of Engineering"}
+      },
+      {
+        "name": {"ja": "仲宗根 一成", "en": "Issei NAKASONE"},
+        "date": {"ja": "2019年3月", "en": "Mar, 2019"},
+        "degree": {"ja": "学士(工学)", "en": "Bachelor of Engineering"}
+      },
+      {
         "name": {"ja": "石井 優太", "en": "Yuta ISHII"},
         "date": {"ja": "2018年3月", "en": "Mar, 2018"},
         "degree": {"ja": "", "en": ""}
