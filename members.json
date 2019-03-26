@@ -48,36 +48,11 @@
     },
     "members": [
       {
-        "name": {"ja": "田辺 和輝", "en": "Kazuki TANABE"},
-        "grade": {"ja": "博士3年", "en": "D3"},
-        "account": "tanabe",
-        "room": "S3-301",
-        "url": "https://kazuki-tanabe.github.io/"
-      },
-      {
         "name": {"ja": "クリッティン インタラウィジット", "en": "Krittin INTHARAWIJITR"},
         "grade": {"ja": "博士2年", "en": "D2"},
         "account": "intharawijitr",
         "room": "S3-301",
         "url": "https://krittinin.github.io/"
-      },
-      {
-        "name": {"ja": "赤岡 武", "en": "Takeshi AKAOKA"},
-        "grade": {"ja": "修士2年", "en": "M2"},
-        "account": "akaoka",
-        "room": "S3-301"
-      },
-      {
-        "name": {"ja": "松浦 匠", "en": "Takumi MATSUURA"},
-        "grade": {"ja": "修士2年", "en": "M2"},
-        "account": "matsuura",
-        "room": "S3-301"
-      },
-      {
-        "name": {"ja": "村上 亮太", "en": "Ryota MURAKAMI"},
-        "grade": {"ja": "修士2年", "en": "M2"},
-        "account": "murakami",
-        "room": "S3-301"
       },
       {
         "name": {"ja": "坂東 昭太郎", "en": "Shotaro BANDO"},
@@ -95,18 +70,6 @@
         "name": {"ja": "宮 太地", "en": "Taichi MIYA"},
         "grade": {"ja": "修士1年", "en": "M1"},
         "account": "miya",
-        "room": "S3-301"
-      },
-      {
-        "name": {"ja": "澤田 一樹", "en": "Kazuki SAWADA"},
-        "grade": {"ja": "学部4年", "en": "B4"},
-        "account": "sawada",
-        "room": "S3-301"
-      },
-      {
-        "name": {"ja": "仲宗根 一成", "en": "Issei NAKASONE"},
-        "grade": {"ja": "学部4年", "en": "B4"},
-        "account": "nakasone",
         "room": "S3-301"
       },
       {
