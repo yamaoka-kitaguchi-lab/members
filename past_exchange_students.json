@@ -9,6 +9,12 @@
     },
     "members": [
       {
+        "name": {"ja": "林 家諄", "en": "Jia-Jhun LIN"},
+        "period": {"ja": "2018年9月から3月", "en": "Sep.2018 - Mar.2018"},
+        "affiliation": {"ja": "国立台湾科技大学", "en": "National Taiwan University of Science and Technology"},
+        "program": {"ja": "", "en": ""}
+      },
+      {
         "name": {"ja": "ジェローム ホルベイン", "en": "Jérôme HOLBEIN"},
         "period": {"ja": "2018年3月から8月", "en": "Mar.2018 - Aug.2018"},
         "affiliation": {"ja": "チューリッヒ工科大学", "en": "Eidgenössische Technische Hochschule Zürich"},

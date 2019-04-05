@@ -49,27 +49,45 @@
     "members": [
       {
         "name": {"ja": "クリッティン インタラウィジット", "en": "Krittin INTHARAWIJITR"},
-        "grade": {"ja": "博士2年", "en": "D2"},
+        "grade": {"ja": "博士3年", "en": "D2"},
         "account": "intharawijitr",
         "room": "S3-301",
         "url": "https://krittinin.github.io/"
       },
       {
+        "name": {"ja": "市川 博彬", "en": "Hiroyoshi ICHIKAWA"},
+        "grade": {"ja": "博士1年", "en": "D1"},
+        "account": "ichikawa",
+        "room": "S3-301"
+      },
+      {
         "name": {"ja": "坂東 昭太郎", "en": "Shotaro BANDO"},
-        "grade": {"ja": "修士1年", "en": "M1"},
+        "grade": {"ja": "修士2年", "en": "M2"},
         "account": "bando",
         "room": "S3-301"
       },
       {
         "name": {"ja": "平井 和樹", "en": "Kazuki HIRAI"},
-        "grade": {"ja": "修士1年", "en": "M1"},
+        "grade": {"ja": "修士2年", "en": "M2"},
         "account": "hirai",
         "room": "S3-301"
       },
       {
         "name": {"ja": "宮 太地", "en": "Taichi MIYA"},
-        "grade": {"ja": "修士1年", "en": "M1"},
+        "grade": {"ja": "修士2年", "en": "M2"},
         "account": "miya",
+        "room": "S3-301"
+      },
+      {
+        "name": {"ja": "伊藤 佑樹", "en": "Yuki ITO"},
+        "grade": {"ja": "修士1年", "en": "M1"},
+        "account": "ito",
+        "room": "S3-301"
+      },
+      {
+        "name": {"ja": "相京 修", "en": "Osamu AIKYO"},
+        "grade": {"ja": "修士1年", "en": "M1"},
+        "account": "aikyo",
         "room": "S3-301"
       },
       {
@@ -80,21 +98,21 @@
       },
       {
         "name": {"ja": "大橋 滉也", "en": "Koya OHASHI"},
-        "grade": {"ja": "学部3年", "en": "B3"},
+        "grade": {"ja": "学部4年", "en": "B4"},
         "account": "k-ohashi",
-        "room": "S3-313"
+        "room": "S3-301"
       },
       {
         "name": {"ja": "湯田 孟", "en": "Hajime YUDA"},
-        "grade": {"ja": "学部3年", "en": "B3"},
+        "grade": {"ja": "学部4年", "en": "B4"},
         "account": "yuda",
-        "room": "S3-313"
+        "room": "S3-301"
       },
       {
         "name": {"ja": "ダワージャルガル オチラル", "en": "Davaajargal UCHRAL"},
-        "grade": {"ja": "学部3年", "en": "B3"},
+        "grade": {"ja": "学部4年", "en": "B4"},
         "account": "uchral",
-        "room": "S3-313"
+        "room": "S3-301"
       }
     ]
   },
@@ -107,12 +125,6 @@
       "room": {"ja": "居室", "en": "Room"}
     },
     "members": [
-      {
-        "name": {"ja": "林 家諄", "en": "Jia-Jhun LIN"},
-        "grade": {"ja": "研究生", "en": "R"},
-        "account": "lin",
-        "room": "S3-301"
-      }
     ]
   }
 ]
