@@ -48,13 +48,6 @@
     },
     "members": [
       {
-        "name": {"ja": "クリッティン インタラウィジット", "en": "Krittin INTHARAWIJITR"},
-        "grade": {"ja": "博士3年", "en": "D3"},
-        "account": "intharawijitr",
-        "room": "S3-301",
-        "url": "https://krittinin.github.io/"
-      },
-      {
         "name": {"ja": "市川 博彬", "en": "Hiroyoshi ICHIKAWA"},
         "grade": {"ja": "博士1年", "en": "D1"},
         "account": "ickw",

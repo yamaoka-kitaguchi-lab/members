@@ -8,6 +8,11 @@
     },
     "members": [
       {
+        "name": {"ja": "クリッティン インタラウィジット", "en": "Krittin INTHARAWIJITR"},
+        "date": {"ja": "2019年9月", "en": "Sep, 2019"},
+        "degree": {"ja": "博士(工学)", "en": "Doctor of Engineering"}
+      },
+      {
         "name": {"ja": "田辺 和輝", "en": "Kazuki TANABE"},
         "date": {"ja": "2019年3月", "en": "Mar, 2019"},
         "degree": {"ja": "博士(工学)", "en": "Doctor of Engineering"}
