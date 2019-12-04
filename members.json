@@ -106,6 +106,24 @@
         "grade": {"ja": "学部4年", "en": "B4"},
         "account": "uchral",
         "room": "S3-301"
+      },
+      {
+        "name": {"ja": "小泊 大輝", "en": "Taiki KODOMARU"},
+        "grade": {"ja": "学部3年", "en": "B3"},
+        "account": "kodomaru",
+        "room": "S3-301"
+      },
+      {
+        "name": {"ja": "瀧元 大貴", "en": "Daiki TAKIMOTO"},
+        "grade": {"ja": "学部3年", "en": "B3"},
+        "account": "takimoto",
+        "room": "S3-301"
+      },
+      {
+        "name": {"ja": "森田 隼人", "en": "Hayato MORITA"},
+        "grade": {"ja": "学部3年", "en": "B3"},
+        "account": "morita",
+        "room": "S3-301"
       }
     ]
   },
