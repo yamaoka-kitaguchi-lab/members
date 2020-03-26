@@ -1,4 +1,7 @@
+![](https://raw.githubusercontent.com/yamaoka-kitaguchi-lab/members/images/logo.png)
+
 # メンバー管理リポジトリ [![](https://travis-ci.org/yamaoka-kitaguchi-lab/members.svg?branch=master)](https://travis-ci.org/yamaoka-kitaguchi-lab/members) ![](https://github.com/yamaoka-kitaguchi-lab/members/workflows/validator/badge.svg) [![](https://img.shields.io/github/issues/yamaoka-kitaguchi-lab/members)](https://github.com/yamaoka-kitaguchi-lab/members/issues) [![](https://img.shields.io/github/issues-pr/yamaoka-kitaguchi-lab/members)](https://github.com/yamaoka-kitaguchi-lab/members/pulls)
+
 研究室のメンバー（教員・学部学生・大学院生・留学生・卒業生）を管理するリポジトリです．
 1. masterブランチのJSONファイルは[メンバーページ](https://www.net.ict.e.titech.ac.jp/members/)からJavascript経由で動的に参照されます
 1. masterブランチは保護されており，ローカルの変更を反映するにはプルリクエストを作成する必要があります
