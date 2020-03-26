@@ -10,7 +10,7 @@ on:
     branches: [ master ]
 
 jobs:
-  build:
+  json_schema_validation:
 
     runs-on: ubuntu-latest
 
