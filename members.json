@@ -60,12 +60,6 @@
         "room": "S3-301"
       },
       {
-        "name": {"ja": "平井 和樹", "en": "Kazuki HIRAI"},
-        "grade": {"ja": "修士2年", "en": "M2"},
-        "account": "hirai",
-        "room": "S3-301"
-      },
-      {
         "name": {"ja": "宮 太地", "en": "Taichi MIYA"},
         "grade": {"ja": "修士2年", "en": "M2"},
         "account": "miya",
@@ -78,33 +72,15 @@
         "room": "S3-301"
       },
       {
-        "name": {"ja": "相京 修", "en": "Osamu AIKYO"},
-        "grade": {"ja": "修士1年", "en": "M1"},
-        "account": "aikyo",
-        "room": "S3-301"
-      },
-      {
         "name": {"ja": "平野 絋大", "en": "Kohdai HIRANO"},
         "grade": {"ja": "学部4年", "en": "B4"},
         "account": "hirano",
         "room": "S3-301"
       },
       {
-        "name": {"ja": "大橋 滉也", "en": "Koya OHASHI"},
-        "grade": {"ja": "学部4年", "en": "B4"},
-        "account": "k-ohashi",
-        "room": "S3-301"
-      },
-      {
         "name": {"ja": "湯田 孟", "en": "Hajime YUDA"},
         "grade": {"ja": "学部4年", "en": "B4"},
         "account": "yuda",
-        "room": "S3-301"
-      },
-      {
-        "name": {"ja": "オチラル ダワージャルガル", "en": "Uchral DAVAAJARGAL"},
-        "grade": {"ja": "学部4年", "en": "B4"},
-        "account": "uchral",
         "room": "S3-301"
       },
       {

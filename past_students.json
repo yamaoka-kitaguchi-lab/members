@@ -8,6 +8,21 @@
     },
     "members": [
       {
+        "name": {"ja": "平井 和樹", "en": "Kazuki HIRAI"},
+        "date": {"ja": "2020年3月", "en": "Mar, 2020"},
+        "degree": {"ja": "修士(工学)", "en": "Master of Engineering"}
+      },
+      {
+        "name": {"ja": "大橋 滉也", "en": "Koya OHASHI"},
+        "date": {"ja": "2020年3月", "en": "Mar, 2020"},
+        "degree": {"ja": "学士(工学)", "en": "Bachelor of Engineering"}
+      },
+      {
+        "name": {"ja": "オチラル ダワージャルガル", "en": "Uchral DAVAAJARGAL"},
+        "date": {"ja": "2020年3月", "en": "Mar, 2020"},
+        "degree": {"ja": "学士(工学)", "en": "Bachelor of Engineering"}
+      },
+      {
         "name": {"ja": "クリッティン インタラウィジット", "en": "Krittin INTHARAWIJITR"},
         "date": {"ja": "2019年9月", "en": "Sep, 2019"},
         "degree": {"ja": "博士(工学)", "en": "Doctor of Engineering"}
