@@ -54,21 +54,39 @@
         "room": "S3-301"
       },
       {
-        "name": {"ja": "坂東 昭太郎", "en": "Shotaro BANDO"},
-        "grade": {"ja": "修士2年", "en": "M2"},
-        "account": "bando",
-        "room": "S3-301"
-      },
-      {
         "name": {"ja": "宮 太地", "en": "Taichi MIYA"},
-        "grade": {"ja": "修士2年", "en": "M2"},
+        "grade": {"ja": "博士1年", "en": "D1"},
         "account": "miya",
         "room": "S3-301"
       },
       {
         "name": {"ja": "伊藤 佑樹", "en": "Yuki ITO"},
-        "grade": {"ja": "修士1年", "en": "M1"},
+        "grade": {"ja": "修士2年", "en": "M2"},
         "account": "ito",
+        "room": "S3-301"
+      },
+      {
+        "name": {"ja": "坂東 昭太郎", "en": "Shotaro BANDO"},
+        "grade": {"ja": "修士1年", "en": "M1"},
+        "account": "bando",
+        "room": "S3-301"
+      },
+      {
+        "name": {"ja": "湯田 孟", "en": "Hajime YUDA"},
+        "grade": {"ja": "修士1年", "en": "M1"},
+        "account": "yuda",
+        "room": "S3-301"
+      },
+      {
+        "name": {"ja": "小泊 大輝", "en": "Taiki KODOMARU"},
+        "grade": {"ja": "学部4年", "en": "B4"},
+        "account": "kodomaru",
+        "room": "S3-301"
+      },
+      {
+        "name": {"ja": "瀧元 大貴", "en": "Daiki TAKIMOTO"},
+        "grade": {"ja": "学部4年", "en": "B4"},
+        "account": "takimoto",
         "room": "S3-301"
       },
       {
@@ -78,26 +96,8 @@
         "room": "S3-301"
       },
       {
-        "name": {"ja": "湯田 孟", "en": "Hajime YUDA"},
-        "grade": {"ja": "学部4年", "en": "B4"},
-        "account": "yuda",
-        "room": "S3-301"
-      },
-      {
-        "name": {"ja": "小泊 大輝", "en": "Taiki KODOMARU"},
-        "grade": {"ja": "学部3年", "en": "B3"},
-        "account": "kodomaru",
-        "room": "S3-301"
-      },
-      {
-        "name": {"ja": "瀧元 大貴", "en": "Daiki TAKIMOTO"},
-        "grade": {"ja": "学部3年", "en": "B3"},
-        "account": "takimoto",
-        "room": "S3-301"
-      },
-      {
         "name": {"ja": "森田 隼人", "en": "Hayato MORITA"},
-        "grade": {"ja": "学部3年", "en": "B3"},
+        "grade": {"ja": "学部4年", "en": "B4"},
         "account": "morita",
         "room": "S3-301"
       }
