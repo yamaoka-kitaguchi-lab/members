@@ -66,9 +66,33 @@
         "room": "S3-301"
       },
       {
+        "name": {"ja": "石橋 拓也", "en": "Takuya ISHIBASHI"},
+        "grade": {"ja": "修士1年", "en": "M1"},
+        "account": "ishibashi",
+        "room": "S3-301"
+      },
+      {
+        "name": {"ja": "小野 輝也", "en": "Teruya ONO"},
+        "grade": {"ja": "修士1年", "en": "M1"},
+        "account": "ono.teruya",
+        "room": "S3-301"
+      },
+      {
+        "name": {"ja": "内藤 碩治", "en": "Mitsuharu NAITO"},
+        "grade": {"ja": "修士1年", "en": "M1"},
+        "account": "naito",
+        "room": "S3-301"
+      },
+      {
         "name": {"ja": "坂東 昭太郎", "en": "Shotaro BANDO"},
         "grade": {"ja": "修士1年", "en": "M1"},
         "account": "bando",
+        "room": "S3-301"
+      },
+      {
+        "name": {"ja": "廣 正博", "en": "Masahiro HIRO"},
+        "grade": {"ja": "修士1年", "en": "M1"},
+        "account": "hiro.m",
         "room": "S3-301"
       },
       {
