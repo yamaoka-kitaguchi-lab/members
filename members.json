@@ -124,6 +124,18 @@
         "grade": {"ja": "学部4年", "en": "B4"},
         "account": "morita",
         "room": "S3-301"
+      },
+      {
+        "name": {"ja": "吉栖 大貴", "en": "Daiki YOSHIZUMI"},
+        "grade": {"ja": "学部3年", "en": "B3"},
+        "account": "Dayosshi.ict",
+        "room": "S3-301"
+      },
+      {
+        "name": {"ja": "脇本 和茂", "en": "Kazushige WAKIMOTO"},
+        "grade": {"ja": "学部3年", "en": "B3"},
+        "account": "kwakimoto",
+        "room": "S3-301"
       }
     ]
   },
