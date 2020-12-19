@@ -114,12 +114,6 @@
         "room": "S3-301"
       },
       {
-        "name": {"ja": "平野 絋大", "en": "Kohdai HIRANO"},
-        "grade": {"ja": "学部4年", "en": "B4"},
-        "account": "hirano",
-        "room": "S3-301"
-      },
-      {
         "name": {"ja": "森田 隼人", "en": "Hayato MORITA"},
         "grade": {"ja": "学部4年", "en": "B4"},
         "account": "morita",
@@ -128,7 +122,7 @@
       {
         "name": {"ja": "吉栖 大貴", "en": "Daiki YOSHIZUMI"},
         "grade": {"ja": "学部3年", "en": "B3"},
-        "account": "Dayosshi.ict",
+        "account": "Dayosshi",
         "room": "S3-301"
       },
       {
