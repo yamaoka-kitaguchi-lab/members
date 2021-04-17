@@ -49,20 +49,32 @@
     "members": [
       {
         "name": {"ja": "市川 博彬", "en": "Hiroyoshi ICHIKAWA"},
-        "grade": {"ja": "博士1年", "en": "D1"},
+        "grade": {"ja": "博士2年", "en": "D2"},
         "account": "ickw",
         "room": "S3-301"
       },
       {
         "name": {"ja": "宮 太地", "en": "Taichi MIYA"},
-        "grade": {"ja": "博士1年", "en": "D1"},
+        "grade": {"ja": "博士2年", "en": "D2"},
         "account": "miya",
         "room": "S3-301"
       },
       {
-        "name": {"ja": "伊藤 佑樹", "en": "Yuki ITO"},
+        "name": {"ja": "内藤 碩治", "en": "Mitsuharu NAITO"},
         "grade": {"ja": "修士2年", "en": "M2"},
-        "account": "ito",
+        "account": "naito",
+        "room": "S3-301"
+      },
+      {
+        "name": {"ja": "坂東 昭太郎", "en": "Shotaro BANDO"},
+        "grade": {"ja": "修士2年", "en": "M2"},
+        "account": "bando",
+        "room": "S3-301"
+      },
+      {
+        "name": {"ja": "湯田 孟", "en": "Hajime YUDA"},
+        "grade": {"ja": "修士2年", "en": "M2"},
+        "account": "yuda",
         "room": "S3-301"
       },
       {
@@ -72,39 +84,9 @@
         "room": "S3-301"
       },
       {
-        "name": {"ja": "小野 輝也", "en": "Teruya ONO"},
+        "name": {"ja": "片岡 秀斗", "en": "Shuto KATAOKA"},
         "grade": {"ja": "修士1年", "en": "M1"},
-        "account": "ono.teruya",
-        "room": "S3-301"
-      },
-      {
-        "name": {"ja": "内藤 碩治", "en": "Mitsuharu NAITO"},
-        "grade": {"ja": "修士1年", "en": "M1"},
-        "account": "naito",
-        "room": "S3-301"
-      },
-      {
-        "name": {"ja": "坂東 昭太郎", "en": "Shotaro BANDO"},
-        "grade": {"ja": "修士1年", "en": "M1"},
-        "account": "bando",
-        "room": "S3-301"
-      },
-      {
-        "name": {"ja": "廣 正博", "en": "Masahiro HIRO"},
-        "grade": {"ja": "修士1年", "en": "M1"},
-        "account": "hiro.m",
-        "room": "S3-301"
-      },
-      {
-        "name": {"ja": "湯田 孟", "en": "Hajime YUDA"},
-        "grade": {"ja": "修士1年", "en": "M1"},
-        "account": "yuda",
-        "room": "S3-301"
-      },
-      {
-        "name": {"ja": "小泊 大輝", "en": "Taiki KODOMARU"},
-        "grade": {"ja": "学部4年", "en": "B4"},
-        "account": "kodomaru",
+        "account": "tms.kataoka.s",
         "room": "S3-301"
       },
       {
@@ -121,13 +103,13 @@
       },
       {
         "name": {"ja": "吉栖 大貴", "en": "Daiki YOSHIZUMI"},
-        "grade": {"ja": "学部3年", "en": "B3"},
-        "account": "Dayosshi",
+        "grade": {"ja": "学部4年", "en": "B4"},
+        "account": "dayosshi",
         "room": "S3-301"
       },
       {
         "name": {"ja": "脇本 和茂", "en": "Kazushige WAKIMOTO"},
-        "grade": {"ja": "学部3年", "en": "B3"},
+        "grade": {"ja": "学部4年", "en": "B4"},
         "account": "kwakimoto",
         "room": "S3-301"
       }

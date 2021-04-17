@@ -8,6 +8,11 @@
     },
     "members": [
       {
+        "name": {"ja": "伊藤 佑樹", "en": "Yuki ITO"},
+        "date": {"ja": "2021年3月", "en": "Mar, 2021"},
+        "degree": {"ja": "修士(工学)", "en": "Master of Engineering"}
+      },
+      {
         "name": {"ja": "平井 和樹", "en": "Kazuki HIRAI"},
         "date": {"ja": "2020年3月", "en": "Mar, 2020"},
         "degree": {"ja": "修士(工学)", "en": "Master of Engineering"}
