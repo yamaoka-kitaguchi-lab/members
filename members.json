@@ -124,6 +124,12 @@
         "grade": {"ja": "学部3年", "en": "B3"},
         "account": "waki",
         "room": "S3-301"
+      },
+      {
+        "name": {"ja": "村上 秀美", "en": "Hidemi Murakami"},
+        "grade": {"ja": "研究生", "en": "R"},
+        "account": "hide-murakami",
+        "room": "S3-301"
       }
     ]
   },
