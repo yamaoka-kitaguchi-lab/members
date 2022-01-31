@@ -106,6 +106,24 @@
         "grade": {"ja": "学部4年", "en": "B4"},
         "account": "kwakimoto",
         "room": "S3-301"
+      },
+      {
+        "name": {"ja": "大坪 正樹", "en": "Masaki OTSUBO"},
+        "grade": {"ja": "学部3年", "en": "B3"},
+        "account": "otsubo",
+        "room": "S3-301"
+      },
+      {
+        "name": {"ja": "和氣 智慶", "en": "Tomoyoshi WAKI"},
+        "grade": {"ja": "学部3年", "en": "B3"},
+        "account": "waki",
+        "room": "S3-301"
+      },
+      {
+        "name": {"ja": "村上 秀美", "en": "Hidemi MURAKAMI"},
+        "grade": {"ja": "研究生", "en": "R"},
+        "account": "hide-murakami",
+        "room": "S3-301"
       }
     ]
   },
