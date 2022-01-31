@@ -28,12 +28,6 @@
         "grade": {"ja": "補佐員", "en": "Staff"},
         "account": "matsuzaki",
         "room": "S3-308"
-      },
-      {
-        "name": {"ja": "酒井 善則", "en": "Yoshinori SAKAI"},
-        "grade": {"ja": "名誉教授", "en": "Professor Emeritus"},
-        "account": "ys",
-        "url": "http://t2r2.star.titech.ac.jp/cgi-bin/researcherinfo.cgi?q_researcher_content_number=afe38dc6f6529557bcf45f299e6d5b51"
       }
     ]
   },
