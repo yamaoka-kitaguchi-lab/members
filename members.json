@@ -42,12 +42,6 @@
     },
     "members": [
       {
-        "name": {"ja": "市川 博彬", "en": "Hiroyoshi ICHIKAWA"},
-        "grade": {"ja": "博士2年", "en": "D2"},
-        "account": "ickw",
-        "room": "S3-301"
-      },
-      {
         "name": {"ja": "宮 太地", "en": "Taichi MIYA"},
         "grade": {"ja": "博士2年", "en": "D2"},
         "account": "miya",
