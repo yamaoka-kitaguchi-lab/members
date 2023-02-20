@@ -43,56 +43,26 @@
     "members": [
       {
         "name": {"ja": "宮 太地", "en": "Taichi MIYA"},
-        "grade": {"ja": "博士2年", "en": "D2"},
+        "grade": {"ja": "博士3年", "en": "D3"},
         "account": "miya",
         "room": "S3-301"
       },
       {
-        "name": {"ja": "内藤 碩治", "en": "Mitsuharu NAITO"},
-        "grade": {"ja": "修士2年", "en": "M2"},
-        "account": "naito",
-        "room": "S3-301"
-      },
-      {
-        "name": {"ja": "坂東 昭太郎", "en": "Shotaro BANDO"},
-        "grade": {"ja": "修士2年", "en": "M2"},
-        "account": "bando",
-        "room": "S3-301"
-      },
-      {
-        "name": {"ja": "湯田 孟", "en": "Hajime YUDA"},
-        "grade": {"ja": "修士2年", "en": "M2"},
-        "account": "yuda",
-        "room": "S3-301"
-      },
-      {
-        "name": {"ja": "石橋 拓也", "en": "Takuya ISHIBASHI"},
-        "grade": {"ja": "修士1年", "en": "M1"},
-        "account": "ishibashi",
-        "room": "S3-301"
-      },
-      {
         "name": {"ja": "片岡 秀斗", "en": "Shuto KATAOKA"},
-        "grade": {"ja": "修士1年", "en": "M1"},
+        "grade": {"ja": "修士2年", "en": "M2"},
         "account": "tms.kataoka.s",
         "room": "S3-301"
       },
       {
-        "name": {"ja": "瀧元 大貴", "en": "Daiki TAKIMOTO"},
+        "name": {"ja": "大坪 正樹", "en": "Masaki OTSUBO"},
         "grade": {"ja": "学部4年", "en": "B4"},
-        "account": "takimoto",
+        "account": "otsubo",
         "room": "S3-301"
       },
       {
-        "name": {"ja": "森田 隼人", "en": "Hayato MORITA"},
+        "name": {"ja": "和氣 智慶", "en": "Tomoyoshi WAKI"},
         "grade": {"ja": "学部4年", "en": "B4"},
-        "account": "morita",
-        "room": "S3-301"
-      },
-      {
-        "name": {"ja": "吉栖 大貴", "en": "Daiki YOSHIZUMI"},
-        "grade": {"ja": "学部4年", "en": "B4"},
-        "account": "dayosshi",
+        "account": "waki",
         "room": "S3-301"
       },
       {
@@ -102,15 +72,15 @@
         "room": "S3-301"
       },
       {
-        "name": {"ja": "大坪 正樹", "en": "Masaki OTSUBO"},
+        "name": {"ja": "島影 航平", "en": "Kohay SHIMAKAGE"},
         "grade": {"ja": "学部3年", "en": "B3"},
-        "account": "otsubo",
+        "account": "",
         "room": "S3-301"
       },
       {
-        "name": {"ja": "和氣 智慶", "en": "Tomoyoshi WAKI"},
+        "name": {"ja": "栂坂日向", "en": "Hyuga TOGASAKA"},
         "grade": {"ja": "学部3年", "en": "B3"},
-        "account": "waki",
+        "account": "",
         "room": "S3-301"
       },
       {
