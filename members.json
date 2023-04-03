@@ -42,26 +42,20 @@
     },
     "members": [
       {
-        "name": {"ja": "宮 太地", "en": "Taichi MIYA"},
-        "grade": {"ja": "博士3年", "en": "D3"},
-        "account": "miya",
-        "room": "S3-301"
-      },
-      {
-        "name": {"ja": "片岡 秀斗", "en": "Shuto KATAOKA"},
-        "grade": {"ja": "修士2年", "en": "M2"},
-        "account": "tms.kataoka.s",
-        "room": "S3-301"
-      },
-      {
         "name": {"ja": "大坪 正樹", "en": "Masaki OTSUBO"},
-        "grade": {"ja": "学部4年", "en": "B4"},
+        "grade": {"ja": "修士1年", "en": "M1"},
         "account": "otsubo",
         "room": "S3-301"
       },
       {
+        "name": {"ja": "在間 哲平", "en": "Teppei ZAIMA"},
+        "grade": {"ja": "修士1年", "en": "M1"},
+        "account": "zaima",
+        "room": "S3-301"
+      },
+      {
         "name": {"ja": "和氣 智慶", "en": "Tomoyoshi WAKI"},
-        "grade": {"ja": "学部4年", "en": "B4"},
+        "grade": {"ja": "修士1年", "en": "M1"},
         "account": "waki",
         "room": "S3-301"
       },
@@ -73,20 +67,14 @@
       },
       {
         "name": {"ja": "島影 航平", "en": "Kohay SHIMAKAGE"},
-        "grade": {"ja": "学部3年", "en": "B3"},
+        "grade": {"ja": "学部4年", "en": "B4"},
         "account": "shima",
         "room": "S3-301"
       },
       {
         "name": {"ja": "栂坂 日向", "en": "Hyuga TOGASAKA"},
-        "grade": {"ja": "学部3年", "en": "B3"},
+        "grade": {"ja": "学部4年", "en": "B4"},
         "account": "toga",
-        "room": "S3-301"
-      },
-      {
-        "name": {"ja": "村上 秀美", "en": "Hidemi MURAKAMI"},
-        "grade": {"ja": "研究生", "en": "R"},
-        "account": "hide-murakami",
         "room": "S3-301"
       }
     ]
