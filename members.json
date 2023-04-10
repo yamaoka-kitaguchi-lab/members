@@ -3,7 +3,7 @@
     "role": {"ja": "メンバー", "en": "Member"},
     "label": {
       "name": {"ja": "名前", "en": "Name"},
-      "grade": {"ja": "", "en": ""},
+      "grade": {"ja": "職位 / 学年", "en": "Title / Grade"},
       "account": {"ja": "アカウント", "en": "Account"},
       "room": {"ja": "居室", "en": "Room"},
       "url": {"ja": "URL", "en": "URL"}
@@ -18,7 +18,7 @@
       },
       {
         "name": {"ja": "北口 善明", "en": "Yoshiaki KITAGUCHI"},
-        "grade": {"ja": "准教授 (学術国際情報センター所属)", "en": "Associate Professor (Global Scientific Information and Computing Center)"},
+        "grade": {"ja": "准教授 (学術国際情報センター所属)", "en": "Associate Professor (GSIC)"},
         "account": "kitaguchi",
         "room": "S3-312",
         "url": "http://search.star.titech.ac.jp/titech-ss/pursuer.act?event=outside&key_rid=5000015938&lang=jp"
