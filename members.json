@@ -1,9 +1,9 @@
 [
   {
-    "role": {"ja": "教職員", "en": "Faculty and Staff"},
+    "role": {"ja": "メンバー", "en": "Member"},
     "label": {
       "name": {"ja": "名前", "en": "Name"},
-      "grade": {"ja": "職位", "en": "Title"},
+      "grade": {"ja": "", "en": ""},
       "account": {"ja": "アカウント", "en": "Account"},
       "room": {"ja": "居室", "en": "Room"},
       "url": {"ja": "URL", "en": "URL"}
@@ -18,7 +18,7 @@
       },
       {
         "name": {"ja": "北口 善明", "en": "Yoshiaki KITAGUCHI"},
-        "grade": {"ja": "准教授", "en": "Associate Professor"},
+        "grade": {"ja": "准教授 (学術国際情報センター所属)", "en": "Associate Professor (Global Scientific Information and Computing Center)"},
         "account": "kitaguchi",
         "room": "S3-312",
         "url": "http://search.star.titech.ac.jp/titech-ss/pursuer.act?event=outside&key_rid=5000015938&lang=jp"
@@ -28,19 +28,7 @@
         "grade": {"ja": "補佐員", "en": "Staff"},
         "account": "matsuzaki",
         "room": "S3-308"
-      }
-    ]
-  },
-  {
-    "role": {"ja": "学生", "en": "Student"},
-    "label": {
-      "name": {"ja": "名前", "en": "Name"},
-      "grade": {"ja": "学年", "en": "Grade"},
-      "account": {"ja": "アカウント", "en": "Account"},
-      "room": {"ja": "居室", "en": "Room"},
-      "url": {"ja": "URL", "en": "URL"}
-    },
-    "members": [
+      },
       {
         "name": {"ja": "大坪 正樹", "en": "Masaki OTSUBO"},
         "grade": {"ja": "修士1年", "en": "M1"},
