@@ -64,6 +64,12 @@
         "grade": {"ja": "学部4年", "en": "B4"},
         "account": "toga",
         "room": "S3-301"
+      },
+      {
+        "name": {"ja": "横山 皓", "en": "Kou YOKOYAMA"},
+        "grade": {"ja": "学部3年", "en": "B3"},
+        "account": "yokoyama",
+        "room": "S3-301"
       }
     ]
   },
