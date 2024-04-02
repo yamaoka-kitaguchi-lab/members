@@ -31,19 +31,19 @@
       },
       {
         "name": {"ja": "大坪 正樹", "en": "Masaki OTSUBO"},
-        "grade": {"ja": "修士1年", "en": "M1"},
+        "grade": {"ja": "修士2年", "en": "M2"},
         "account": "otsubo",
         "room": "S3-301"
       },
       {
         "name": {"ja": "在間 哲平", "en": "Teppei ZAIMA"},
-        "grade": {"ja": "修士1年", "en": "M1"},
+        "grade": {"ja": "修士2年", "en": "M2"},
         "account": "zaima",
         "room": "S3-301"
       },
       {
         "name": {"ja": "和氣 智慶", "en": "Tomoyoshi WAKI"},
-        "grade": {"ja": "修士1年", "en": "M1"},
+        "grade": {"ja": "修士2年", "en": "M2"},
         "account": "waki",
         "room": "S3-301"
       },
@@ -67,7 +67,7 @@
       },
       {
         "name": {"ja": "横山 皓", "en": "Kou YOKOYAMA"},
-        "grade": {"ja": "学部3年", "en": "B3"},
+        "grade": {"ja": "学部4年", "en": "B4"},
         "account": "yokoyama",
         "room": "S3-301"
       }
