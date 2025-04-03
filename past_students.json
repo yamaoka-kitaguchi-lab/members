@@ -8,6 +8,16 @@
     },
     "members": [
       {
+        "name": {"ja": "大坪 正樹", "en": "Masaki OTSUBO"},
+        "date": {"ja": "2025年3月", "en": "Mar, 2025"},
+        "degree": {"ja": "修士(工学)", "en": "Master of Engineering"}
+      },
+      {
+        "name": {"ja": "和氣 智慶", "en": "Tomoyoshi WAKI"},
+        "date": {"ja": "2025年3月", "en": "Mar, 2025"},
+        "degree": {"ja": "修士(工学)", "en": "Master of Engineering"}
+      },
+      {
         "name": {"ja": "宮 太地", "en": "Taichi MIYA"},
         "date": {"ja": "2023年3月", "en": "Mar, 2023"},
         "degree": {"ja": "博士(工学)", "en": "Doctor of Engineering"}
