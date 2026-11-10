@@ -31,26 +31,14 @@
       },
       {
         "name": {"ja": "在間 哲平", "en": "Teppei ZAIMA"},
-        "grade": {"ja": "博士1年", "en": "D1"},
+        "grade": {"ja": "博士2年", "en": "D2"},
         "account": "zaima",
         "room": "S3-301"
       },
       {
         "name": {"ja": "大野 遥介", "en": "Yosuke ONO"},
-        "grade": {"ja": "修士1年", "en": "M1"},
+        "grade": {"ja": "修士2年", "en": "M2"},
         "account": "ono.y",
-        "room": "S3-301"
-      },
-      {
-        "name": {"ja": "脇本 和茂", "en": "Kazushige WAKIMOTO"},
-        "grade": {"ja": "学部4年", "en": "B4"},
-        "account": "kwakimoto",
-        "room": "S3-301"
-      },
-      {
-        "name": {"ja": "島影 航平", "en": "Kohay SHIMAKAGE"},
-        "grade": {"ja": "学部4年", "en": "B4"},
-        "account": "shima",
         "room": "S3-301"
       },
       {
@@ -69,6 +57,12 @@
         "name": {"ja": "安田 朋弘", "en": "Tomohiro YASUDA"},
         "grade": {"ja": "学部4年", "en": "B4"},
         "account": "yasuda",
+        "room": "S3-301"
+      },
+      {
+        "name": {"ja": "古賀 翔太", "en": "Shota KOGA"},
+        "grade": {"ja": "学部4年", "en": "B4"},
+        "account": "koga_s",
         "room": "S3-301"
       }
     ]
